@@ -1,0 +1,9 @@
+.jumbotron h1 { margin-left: 40px }
+
+#log {
+    width: 400px;
+    height: 200px;
+    overflow-y: scroll;
+}
+
+#conversion-amount, #conversion-to { margin-bottom: 10px }
